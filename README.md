@@ -7,7 +7,7 @@ I'm throwing this out there as a test for collaborative songwriting on Github. I
 **BPM:** 125 bpm
 
 ## Instructions
-There are 2 different folders available. One is a folder containing a complete Logic Pro session (fo those that use Logic). the other folder contains a stereo drum mix and stems for guitar and bass. Add those to your DAW of choice, BPM info provided above.
+There are 2 different folders available. One is a folder containing a complete Logic Pro session (for those that use Logic). the other folder contains a stereo drum mix and stems for guitar and bass. Add those to your DAW of choice, BPM info provided above.
 
 ---
 
