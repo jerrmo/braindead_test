@@ -1,5 +1,7 @@
 # Brain Dead
 
+I'm throwing this out there as a test for collaborative songwriting on Github. I've been kicking around the idea of doing an "open source" record for a few years. After hearing Jason Evangelho (@KillYourFM) talk about Lorenzo's Music (@lorenzosmusic) on his podcast "Choose Linux" I decided to jump in with the idea again. Watch this space!
+
 ## Song Info
 
 **BPM:** 125 bpm
